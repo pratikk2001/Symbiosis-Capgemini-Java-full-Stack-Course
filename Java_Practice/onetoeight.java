@@ -9,11 +9,12 @@ public class onetoeight{
         System.out.print("Enter a number: ");
         int n = scanner.nextInt();
 		
-		if(n<=8){
-			
-			System.out.println("Right No");
-		}else{
-			System.out.println("Wrong No");
+		while(n<1 || n>8)
+		{
+			System.out.println("Number is Wrong");
+			System.out.println("Enter a number: ");
+			n = scanner.nextInt();
 		}
+		System.out.print("Number is Right");
 	}
 }
