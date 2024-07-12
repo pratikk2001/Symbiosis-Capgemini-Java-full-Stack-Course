@@ -19,10 +19,8 @@
 <p>---------------</p>
 <p><br></p>
 <p>Java is known for its simplicity, portability, and versatility. It is widely used in various applications, from web development to mobile apps and enterprise systems. Mastering Java opens doors to numerous career opportunities in software development.</p>
-<p><br></p>
 <p>Java Example</p>
 <p>------------</p>
-<p><br></p>
 <p>&nbsp; &nbsp;&nbsp;</p>
 <p>&nbsp; &nbsp; class Simple {</p>
 <p>&nbsp; &nbsp; &nbsp; &nbsp; public static void main(String args[]) {</p>
@@ -30,10 +28,8 @@
 <p>&nbsp; &nbsp; &nbsp; &nbsp; }</p>
 <p>&nbsp; &nbsp; }</p>
 <p>&nbsp; &nbsp;&nbsp;</p>
-<p><br></p>
 <p>Features of Java</p>
 <p>----------------</p>
-<p><br></p>
 <p>* &nbsp; Simple</p>
 <p>* &nbsp; Object-Oriented</p>
 <p>* &nbsp; Portable</p>
@@ -50,8 +46,7 @@
 <p>Understanding Java Components</p>
 <p>-----------------------------</p>
 <p><br></p>
-<p>### Java Virtual Machine (JVM)</p>
-<p><br></p>
+<p>Java Virtual Machine (JVM)</p>
 <p>A specification that defines how the JVM operates, with implementations provided by Oracle and others. The JVM creates a runtime instance whenever a Java program is executed.</p>
 <p><br></p>
 <p> Java Runtime Environment (JRE)</p>
