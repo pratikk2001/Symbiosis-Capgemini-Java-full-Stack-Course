@@ -1,6 +1,10 @@
+<html>
+  
+<body>
+
 <p>&nbsp; Java Full Stack Course&nbsp;</p>
 
-<img src="[img_girl.jpg](https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png)" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Girl in a jacket" width="500" height="600">
 
 <p><br></p>
 <p><br></p>
@@ -90,3 +94,6 @@
 <p>&nbsp; &nbsp; * &nbsp; Real-world Applications</p>
 <p>&nbsp; &nbsp; * &nbsp; Hands-on Experience</p>
 <p><br></p>
+</body>
+</html>
+<
