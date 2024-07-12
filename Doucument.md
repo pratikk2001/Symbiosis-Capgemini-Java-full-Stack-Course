@@ -4,7 +4,7 @@
 
 <p>&nbsp; Java Full Stack Course Documentation &nbsp;</p>
 
-<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Java" width="600" height="200">
+<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Java" width="400" height="200">
 
 <p><br></p>
 <p>Java Full Stack Course</p>
