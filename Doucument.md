@@ -2,9 +2,9 @@
   
 <body>
 
-<p>&nbsp; Java Full Stack Course&nbsp;</p>
+<p>&nbsp; Java Full Stack Course Documentation &nbsp;</p>
 
-<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Girl in a jacket" width="200" height="600">
+<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Java" width="600" height="200">
 
 <p><br></p>
 <p>Java Full Stack Course</p>
