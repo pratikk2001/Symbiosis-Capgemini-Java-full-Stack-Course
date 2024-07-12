@@ -1,15 +1,11 @@
 <p>&nbsp; Java Full Stack Course&nbsp;</p>
-<p><br></p>
-<p><br></p>
+
+<img src="[img_girl.jpg](https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png)" alt="Girl in a jacket" width="500" height="600">
+
 <p><br></p>
 <p><br></p>
 <p>Java Full Stack Course</p>
 <p>======================</p>
-<p><br></p>
-<p>Welcome to the Java Full Stack Course</p>
-<p>-------------------------------------</p>
-<p><br></p>
-<p>Unlock the power of Java and become a proficient full-stack developer with our comprehensive Java Full Stack Course. Designed for aspiring developers, this course covers everything you need to know about Java, from its fundamentals to advanced features.</p>
 <p><br></p>
 <p>What is Java?</p>
 <p>-------------</p>
