@@ -4,9 +4,8 @@
 
 <p>&nbsp; Java Full Stack Course&nbsp;</p>
 
-<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Girl in a jacket" width="500" height="600">
+<img src="https://github.com/pratikk2001/Symbiosis-Capgemini-Java-full-Stack-Course/blob/main/Java-Logo.png" alt="Girl in a jacket" width="200" height="600">
 
-<p><br></p>
 <p><br></p>
 <p>Java Full Stack Course</p>
 <p>======================</p>
@@ -55,11 +54,11 @@
 <p><br></p>
 <p>A specification that defines how the JVM operates, with implementations provided by Oracle and others. The JVM creates a runtime instance whenever a Java program is executed.</p>
 <p><br></p>
-<p>### Java Runtime Environment (JRE)</p>
+<p> Java Runtime Environment (JRE)</p>
 <p><br></p>
 <p>JRE provides the runtime environment needed to execute Java applications. It includes a set of libraries and other files that the JVM uses at runtime.</p>
 <p><br></p>
-<p>### Java Development Kit (JDK)</p>
+<p> Java Development Kit (JDK)</p>
 <p><br></p>
 <p>The JDK is a comprehensive development environment for building Java applications and applets. It includes:</p>
 <p><br></p>
