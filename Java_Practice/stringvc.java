@@ -5,7 +5,7 @@ class stringvc{
         public static void main(String args[]){
         Scanner sc= new Scanner(System.in);
         System.out.println("Enter your name");
-        String name=sc.next();
+        String name=sc.nextLine();
         int length=name.length();
         int count=0;
         for (int i=0;i<length-1;i++)
